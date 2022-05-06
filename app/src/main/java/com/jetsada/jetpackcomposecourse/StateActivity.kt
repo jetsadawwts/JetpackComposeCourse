@@ -33,6 +33,7 @@ class StateActivity : ComponentActivity() {
                         .background(color.value)
                         .weight(1f)
                         .fillMaxSize()) {
+
                     }
             }
         }
